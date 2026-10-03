@@ -1,6 +1,6 @@
 {
   "version": "3.0.5",
   "releaseNotes": "【MIU v3.0.5 更新日志】\n1. 界面全面重做：浅色/深色双主题、圆角卡片、侧边栏自定义壁纸\n2. 新增开场白阅读器/全屏阅读，以及 AI 卡片总结\n3. 消息渲染升级：BBCode、气泡主题、HTML 分段\n4. 自动打标重做：待确认替换/合并队列、批量处理\n5. 聊天记录导入支持 ZIP 按文件夹匹配角色与 .txt 文本\n6. 查重清理新增免删锁定，并修复「检查更新」404",
-  "downloadUrl": "https://github.com/fanye0220/APP/releases",
+  "downloadUrl": "https://github.com/fanye0220/APP/releases/latest/download/app-debug.apk",
   "forceUpdate": false
 }
