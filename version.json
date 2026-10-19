@@ -1,7 +1,7 @@
 {
   "version": "3.1.1",
   "releaseNotes": "【MIU v3.1.1 更新日志】\n1. 新增 TT（TauriTavern）联动：酒馆里的角色卡 / 世界书 / 预设 / 美化 / 快速回复 / 正则可按分类拉进 MIU，MIU 的卡也能一键送回酒馆\n2. 修「变量渲染显示」：卡里用 ```text 包的 HTML（状态栏 / 开场白）正常渲染，不再显示成源码\n3. 修后台耗电：面板轮询 / 小头像 / 自动打标切到后台不再空转，挂着也不发烫\n4. 修卡片渲染：写在 @media 里的 100vh 容器不再把卡压成一条，改按内容撑开；图挂了的图标也不再显示成破图",
-  "downloadUrl": "https://github.com/fanye0220/APP/releases/latest/download/miu.apk",
+  "downloadUrl": "https://github.com/fanye0220/APP/releases/latest/download/app-debug.apk",
   "sha256": "0f129de36370c0e89722c05eed150a71c70ee3384f8ed12499abd2165d2c487d",
   "forceUpdate": false
 }
